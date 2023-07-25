@@ -1,10 +1,13 @@
-### Hi there 👋
+### Jesus Sanchez
 
+**`Full Stack Software Developer`**
+
+#I am a Innovative, solution-oriented full-stack developer with a background in leadership and managerial duties. I am comfortable working in an agile team setting, and I thrive on learning new technologies and techniques quickly. I have experience in ReactJs, C#, .NET, JavaScript, SQL, Bootstrap, Rest APIs, GIT and Postman.
 <!--
 **Jesus1Sanchez/Jesus1Sanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

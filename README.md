@@ -20,7 +20,6 @@ I am a Innovative, solution-oriented full-stack developer with a background in l
 
 <img align="left" alt="MicrosoftSqlServer" width="30px" style="background-color: white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 
-
 <br>
 
 ## Tools

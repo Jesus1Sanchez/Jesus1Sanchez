@@ -14,11 +14,13 @@ I am a Innovative, solution-oriented full-stack developer with a background in l
 
 <img align="left" alt="HTML15" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 
+
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
 
 <img align="left" alt="BootStrap" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
 
-<img align="left" alt="MicrosoftSqlServer" width="30px" style="background-color: white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+
+<img align="left" alt="MicrosoftSqlServer" width="30px" style="padding-right:10px" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" />
 
 <br>
 
